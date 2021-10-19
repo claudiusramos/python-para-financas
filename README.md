@@ -9,4 +9,4 @@ Para comprar o curso, acesse a [página de vendas](https://bit.ly/pythonparafina
 #### Recursos úteis
 
 --------
-![](capa_curso.png)
+![](capa_curso_800.png)
